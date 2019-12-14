@@ -1,5 +1,6 @@
 # metrics
 Generic library for publishing metrics to RabbitMQ
 
-https://mermaid-js.github.io/mermaid-live-editor/#/view/eyJjb2RlIjoiZ3JhcGggVERcbiAgQTFbTWV0cmljIENsaWVudF0gLS0+fGVudi5ob3N0Lm1ldHJpY3wgQntSYWJiaXRNUX1cbiAgQTJbTG9nIENsaWVudF0gLS0+fGVudi5ob3N0LmxldmVsLmxvZ3wgQntSYWJiaXRNUX1cbiAgQiAtLT58Ki5lcnJvci5sb2d8IERbU3BsdW5rXVxuICBCIC0tPnwqLm1ldHJpY3wgRVtJbmZsdXhEQl1cbiAgQi0tPnwqLmxvZ3wgRltHcmF5bG9nXVxuXHRcdCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19
 
+
+[Architector]:https://github.com/sandman-cs/metrics/blob/master/images/mermaid-diagram-20191214065917.png
