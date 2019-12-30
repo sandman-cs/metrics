@@ -7,7 +7,7 @@ Generic library for publishing metrics to RabbitMQ
 {
 	"app":"testApp",
 	"metric":"metricName",
-	"metric
+	"increment":true
 }
 ```
 
