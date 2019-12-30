@@ -1,7 +1,17 @@
 # metrics
 Generic library for publishing metrics to RabbitMQ
 
-Message Format is JSON:
+
+**Local listener on UDP, recieves metrics then forwards on set interval.**
+```json
+{
+	"app":"testApp",
+	"metric":"metricName",
+	"metric
+}
+```
+
+**Message Format is JSON:**
 ```json
 {
 	"app": "testApp",
@@ -12,7 +22,10 @@ Message Format is JSON:
 	"type": "msg",
 	"ver": "1.0.0"
 }
+```
 
+**Metric's message that is published to RMQ:**
+```json
 {
 	"app": "testApp",
 	"host": "Chief-Laptop",
