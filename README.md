@@ -1,4 +1,4 @@
-# metrics
+# Metrics
 Generic library for publishing Application metrics and logs to RabbitMQ
 
 
