@@ -1,5 +1,5 @@
 # metrics
-Generic library for publishing metrics to RabbitMQ
+Generic library for publishing Application metrics and logs to RabbitMQ
 
 
 **Local listener on UDP, recieves metrics then forwards on set interval.**
